@@ -4,7 +4,7 @@ title: Library
 permalink: /library/
 ---
 
-Explore [Puerto54][lib-puerto54] where to find some examples of:
+Explore [Puerto54][lib-puerto54] and find some references, documents and examples of:
 
 1. [MVC Web App + Non-relational Database][lib-p54-9001]
 2. [MVC Console App][lib-p54-8001]
