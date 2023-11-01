@@ -23,7 +23,7 @@ author: Guillermo Vitola
 email: gvitola@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Passionate about the art of Software Development.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gvitola.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gvitola
 github_username:  gvitola
